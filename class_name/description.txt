@@ -1,0 +1,3 @@
+inform :class_name,id
+and id started by 0
+
